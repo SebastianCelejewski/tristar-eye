@@ -28,4 +28,3 @@ mvn clean gwt:run
 ```
 
 For this step, you need to have Maven installed first (https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html).
-
