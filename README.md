@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/SebastianCelejewski/tristar-eye.svg?branch=master)](https://travis-ci.com/SebastianCelejewski/tristar-eye)
+
 # tristar-eye
 The mobile app that helps to check current Tricity traffic status.
 
